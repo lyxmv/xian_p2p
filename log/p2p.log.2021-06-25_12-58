@@ -1,0 +1,4 @@
+2021-06-25 12:58:08,594 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 12:58:08,597 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 12:58:09,035 INFO [root] [tender.py(setUp:13)] - login response={'status': 200, 'description': '登录成功'}
+2021-06-25 12:58:09,075 INFO [root] [tender.py(test01_tender:31)] - tender response = {'status': 100, 'description': '投标金额不能低于最低投标金额'}

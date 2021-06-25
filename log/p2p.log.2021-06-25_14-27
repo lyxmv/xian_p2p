@@ -1,0 +1,8 @@
+2021-06-25 14:24:13,392 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:24:13,394 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:24:13,798 INFO [root] [tender.py(setUp:13)] - login response={'status': 200, 'description': '登录成功'}
+2021-06-25 14:24:13,839 INFO [root] [tender.py(test02_tender:31)] - tender response = {'status': 100, 'description': '投标金额不能低于最低投标金额'}
+2021-06-25 14:27:46,348 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:27:46,348 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:27:46,635 INFO [root] [tender.py(setUp:13)] - login response={'status': 200, 'description': '登录成功'}
+2021-06-25 14:27:46,675 INFO [root] [tender.py(test03_get_tenderlist:46)] - get_tender response = {'recover_amount_yes_total': 0, 'isStartTime': 'yes', 'epage': 6, 'recover_amount_total': 0, 'recover_amount_wait_total': 0, 'page': 1, 'total_pages': 0, 'tender_amount_total': 0, 'items': [], 'total_items': 0, 'isCert': '2'}

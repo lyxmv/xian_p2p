@@ -1,0 +1,88 @@
+2021-06-25 14:36:54,924 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:36:54,927 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:37:31,878 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:37:31,878 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:40:50,502 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:40:50,503 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:42:45,776 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:42:45,776 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:42:45,928 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:43:32,019 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:43:32,019 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:43:32,172 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:47:31,380 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:47:31,380 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:47:31,709 INFO [root] [login.py(test05_get_sms__code_success:70)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2021-06-25 14:48:04,287 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:48:04,287 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:48:04,461 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:48:30,993 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:48:30,993 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:48:33,735 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:48:33,735 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:48:33,885 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:51:38,019 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:51:38,019 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:51:38,170 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:51:52,176 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:51:52,176 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:51:52,327 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:52:20,038 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:52:20,039 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:52:20,187 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:52:40,003 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:52:40,003 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:52:40,155 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:52:45,636 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:52:45,636 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:52:45,792 INFO [root] [process.py(test02_get_sms_code:34)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:53:41,766 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:53:41,766 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:53:41,932 INFO [root] [process.py(test02_get_sms_code:36)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:56:29,976 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:56:29,977 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:56:30,128 INFO [root] [process.py(test02_get_sms_code:36)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 14:59:01,503 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 14:59:01,504 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 14:59:01,768 INFO [root] [process.py(test02_get_sms_code:36)] - sms verify response={'status': 100, 'description': '图片验证码错误'}
+2021-06-25 15:01:00,806 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:01:00,806 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:01:01,045 INFO [root] [process.py(test01_register_success:45)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:01:01,082 INFO [root] [process.py(test01_register_success:49)] - reg response={'status': 100, 'description': '手机已存在!'}
+2021-06-25 15:01:17,258 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:01:17,259 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:01:17,465 INFO [root] [process.py(test01_register_success:45)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:01:17,542 INFO [root] [process.py(test01_register_success:49)] - reg response={'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-06-25 15:02:15,112 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:02:15,112 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:02:30,652 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:02:30,652 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:02:30,862 INFO [root] [process.py(test02_get_sms_code:39)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:02:57,486 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:02:57,487 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:02:57,698 INFO [root] [process.py(test02_get_sms_code:39)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:06:19,167 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:06:19,167 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:06:19,396 INFO [root] [process.py(test03_reg_success:48)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:06:19,477 INFO [root] [process.py(test03_reg_success:51)] - reg response={'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-06-25 15:06:32,216 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:06:32,216 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:06:32,451 INFO [root] [process.py(test03_reg_success:48)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:06:32,492 INFO [root] [process.py(test03_reg_success:51)] - reg response={'status': 100, 'description': '手机已存在!'}
+2021-06-25 15:06:42,696 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:06:42,696 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:06:42,899 INFO [root] [process.py(test03_reg_success:48)] - sms verify response={'status': 200, 'description': '短信发送成功'}
+2021-06-25 15:06:42,988 INFO [root] [process.py(test03_reg_success:51)] - reg response={'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2021-06-25 15:08:30,216 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:08:30,216 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:08:30,403 INFO [root] [process.py(test04_login_success:55)] - loggin response={'status': 200, 'description': '登录成功'}
+2021-06-25 15:10:50,554 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:10:50,554 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:10:50,844 INFO [root] [process.py(test04_login_success:55)] - loggin response={'status': 200, 'description': '登录成功'}
+2021-06-25 15:12:32,054 INFO [root] [__init__.py(<module>:5)] - info
+2021-06-25 15:12:32,054 ERROR [root] [__init__.py(<module>:6)] - error
+2021-06-25 15:12:32,227 INFO [root] [process.py(test04_login_success:55)] - loggin response={'status': 200, 'description': '登录成功'}
+2021-06-25 15:12:32,274 INFO [root] [process.py(test04_login_success:61)] - form response=<form name='easypaysubmit' id='easypaysubmit' target='_blank' method='post' action='http://121.43.169.97:8000/muser/publicRequests'><input name='Version' type='hidden' value='10'/><input name='CmdId' type='hidden' value='UserRegister'/><input name='MerCustId' type='hidden' value='6000060007313892'/><input name='BgRetUrl' type='hidden' value='https://www.baidu.com/'/><input name='RetUrl' type='hidden' value='http://user-p2p-test.itheima.net/trust/chinapnr/register/return/21062515123287763446'/><input name='UsrId' type='hidden' value=''/><input name='UsrName' type='hidden' value=''/><input name='IdType' type='hidden' value='00'/><input name='IdNo' type='hidden' value='null'/><input name='UsrMp' type='hidden' value='13033447845'/><input name='UsrEmail' type='hidden' value=''/><input name='MerPriv' type='hidden' value='21062515123287763446'/><input name='ChkValue' type='hidden' value='-101'/><input name='CharSet' type='hidden' value='UTF-8'/></form><script>document.forms['easypaysubmit'].submit();</script>
+2021-06-25 15:12:32,275 INFO [root] [utils.py(requests_third_api:27)] - third request url = http://121.43.169.97:8000/muser/publicRequests
+2021-06-25 15:12:32,275 INFO [root] [utils.py(requests_third_api:31)] - third request data = {'Version': '10', 'CmdId': 'UserRegister', 'MerCustId': '6000060007313892', 'BgRetUrl': 'https://www.baidu.com/', 'RetUrl': 'http://user-p2p-test.itheima.net/trust/chinapnr/register/return/21062515123287763446', 'UsrId': '', 'UsrName': '', 'IdType': '00', 'IdNo': 'null', 'UsrMp': '13033447845', 'UsrEmail': '', 'MerPriv': '21062515123287763446', 'ChkValue': '-101', 'CharSet': 'UTF-8'}
+2021-06-25 15:12:32,628 INFO [root] [process.py(test04_login_success:63)] - third-interface response=UserRegister OK
